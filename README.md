@@ -1,0 +1,1 @@
+This repo contains static files of my homepage. https://www.bsbsb.top
